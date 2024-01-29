@@ -1,0 +1,2 @@
+variable expansion and alias from alu
+init_files_variables_and_expansions
